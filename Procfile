@@ -1,1 +1,1 @@
-web: gunicorn big_foot.app:app
+web: gunicorn app:app
